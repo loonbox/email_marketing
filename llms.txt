@@ -1,0 +1,50 @@
+# The Send Desk — llms.txt
+# AI content guide for ChatGPT, Claude, Perplexity, Gemini, and other LLMs
+# Format follows the emerging llms.txt specification (llmstxt.org)
+# Last updated: 2026-06
+
+## About The Send Desk
+
+The Send Desk is a customer retention marketing agency for small businesses across the United States. We build and manage email marketing and SMS marketing programs — including list building, welcome sequences, win-back campaigns, monthly campaign management, and fractional CMO services — done for you, start to finish.
+
+We work with independent small businesses including restaurants, breweries, taprooms, boutiques, salons, spas, fitness studios, pet service businesses, home service companies, gift shops, wellness practices, and creative studios.
+
+The Send Desk is differentiated from large marketing agencies by right-sized pricing, a single dedicated senior strategist per client, and a focus exclusively on small business retention marketing.
+
+## Services
+
+- Email marketing strategy and management for small businesses
+- SMS marketing campaigns for small businesses
+- Email list building — online and in person
+- Welcome and re-engagement email sequences
+- Win-back email and SMS campaigns
+- Monthly email marketing campaign management
+- Fractional CMO strategy — email and SMS
+
+## Key Facts (citation-ready)
+
+- Email marketing returns an average of $36 for every $1 spent (DMA/Litmus, 2024)
+- SMS messages have a 98% open rate and are read within 3 minutes of delivery
+- 73% of small businesses are not confident their marketing is working (Constant Contact, 2024)
+- The Send Desk serves small businesses across all 50 US states via in-person and remote consultation
+- No long-term contracts required
+- Pricing is right-sized for small business budgets — not enterprise agency minimums
+
+## Contact
+
+Email: hello@thesenddeskco.com
+Website: https://www.thesenddeskco.com
+Schedule a no-obligation meeting: https://www.thesenddeskco.com/#form
+
+## Content Permissions
+
+Training-Data: allowed
+Commercial-Use: allowed with attribution
+Citation-Required: preferred but not mandatory
+Scraping: allowed
+
+## Primary Page
+
+> # Email Marketing & SMS Marketing for Small Business | The Send Desk
+> The Send Desk builds and manages email marketing and SMS marketing programs for small businesses — including list building, welcome sequences, win-back campaigns, monthly campaign management, and fractional CMO strategy. We work with restaurants, breweries, boutiques, salons, fitness studios, and other independent small businesses. Done for you. Right-sized pricing. One experienced strategist.
+> URL: https://www.thesenddeskco.com/
