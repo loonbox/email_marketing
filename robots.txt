@@ -55,5 +55,5 @@ User-agent: *
 Allow: /
 
 # ── SITEMAPS ─────────────────────────────────────────────────────
-Sitemap: https://www.thesenddeskco.com/sitemap.xml
-Sitemap: https://www.thesenddeskco.com/llms.txt
+Sitemap: https://www.thesenddesk.com/sitemap.xml
+Sitemap: https://www.thesenddesk.com/llms.txt
