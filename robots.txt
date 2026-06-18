@@ -1,0 +1,60 @@
+# robots.txt — The Send Desk
+# https://www.thesenddesk.com
+# GEO-optimized: all major AI and traditional crawlers explicitly permitted
+
+# ── TRADITIONAL SEARCH ENGINES ───────────────────────────────────
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# ── OPENAI / CHATGPT ─────────────────────────────────────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# ── ANTHROPIC / CLAUDE ───────────────────────────────────────────
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# ── PERPLEXITY ───────────────────────────────────────────────────
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# ── GOOGLE GEMINI / AI OVERVIEWS ─────────────────────────────────
+User-agent: Google-Extended
+Allow: /
+
+# ── COMMON CRAWL (LLM TRAINING DATA) ─────────────────────────────
+User-agent: CCBot
+Allow: /
+
+# ── META / APPLE ──────────────────────────────────────────────────
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ── DEFAULT: ALLOW ALL ────────────────────────────────────────────
+User-agent: *
+Allow: /
+
+# ── SITEMAPS ──────────────────────────────────────────────────────
+Sitemap: https://www.thesenddesk.com/sitemap.xml
+Sitemap: https://www.thesenddesk.com/llms.txt
